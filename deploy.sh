@@ -1,2 +1,2 @@
 #!/bin/bash
-"Deploying application..."
+"Deploying to DEVELOPMENT environment"
